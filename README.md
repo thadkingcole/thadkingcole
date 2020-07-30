@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub Profile!
+My name is Thad, and I am a full-stack web developer with a passion for solving problems with code. Soon-to-be graduate of the Coding Boot Camp at UNC Chapel Hill with skills in HTML, CSS/Bootstrap, JavaScript/jQuery, and Python, I specialize in building web applications with a responsive and intuitive front-end and a robust and reliable back-end. I leverage my background in nuclear operations to remain calm under pressure, think critically, learn quickly, and work as either a teammate or team leader to achieve a common goal. I am eager to combine my background in nuclear operations with my technical skills to build exciting products as part of a fast-paced results-driven engineering team.
 
 <!--
 **thadkingcole/thadkingcole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
