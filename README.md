@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-My name is Thad, and I am a full-stack web developer with a passion for solving problems with code. Soon-to-be graduate of the Coding Boot Camp at UNC Chapel Hill with skills in HTML, CSS/Bootstrap, JavaScript/jQuery, and Python, I specialize in building web applications with a responsive and intuitive front-end and a robust and reliable back-end. I leverage my background in nuclear operations to remain calm under pressure, think critically, learn quickly, and work as either a teammate or team leader to achieve a common goal. I am eager to combine my background in nuclear operations with my technical skills to build exciting products as part of a fast-paced results-driven engineering team.
+Welcome to my github profile.
+
+I am a full-stack web developer who enjoys learning and applying new skills.
+
+- 🔭 I’m currently working on finishing [Harvard's CS50 Intro to Computer Science](https://cs50.harvard.edu/x/2021/)
+- 🌱 I'm currently learning machine learning with Python 🐍
+- 💬 Ask me about nuclear power as a solution to global warming
+- 📫 How to reach me: [email](mailto:thadcole@duck.com)
+- 😄 Pronouns: he/him
 
 <!--
 **thadkingcole/thadkingcole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
