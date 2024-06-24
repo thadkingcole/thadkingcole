@@ -4,14 +4,14 @@ Welcome to my github profile.
 
 I am a former nuclear operator turned full-stack web developer who is never afraid of learning new skills.
 
-- 🔭 I’m currently wrapping up [cs50](https://cs50.harvard.edu/x/2022/), Harvard's Introduction to Computer Science.
-- 🌱 I'm currently learning machine learning with Python 🐍
+- 🔭 I’m currently working on a football 🏈 pick-em app with a twist 🌪️
+- 🌱 I'm currently learning ASP.NET 🌐 and Entity Framework 🛢
 - 👯 I’m looking to collaborate on interesting/fun web development projects
-- 🤔 I’m looking for help with [Django](https://www.djangoproject.com/) web development
+- 🤔 I’m looking for help with dotnet
 - 💬 Ask me about nuclear power as a solution to global warming
 - 📫 How to reach me: [email](mailto:thadcole@duck.com)
 - 😄 Pronouns: he/him
-- ⚡ Weird fact: The Washington Capitals logo uses a hockey stick as the letter `T`; I personally would have picked the `L` to be a hockey stick 🤷
+- ⚡ Fun fact: The Washington Capitals logo uses a hockey stick as the letter `T`; I personally would have picked the `L` to be a hockey stick 🤷
 
 <!--
 **thadkingcole/thadkingcole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
